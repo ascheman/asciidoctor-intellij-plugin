@@ -30,7 +30,9 @@ labels: 'bug'
 Plugin Version: ____
 
 <!--
-    Go to: Help -> About
+    Go to: 
+    - Windows/Linux: Help -> About
+    - macOS: Application-Menu (IntelliJ IDEA) -> About IntelliJ IDEA (or respective menu for other JetBrains IDEs like GoLand, WebStorm, PyCharm, ...)
     Use the "Copy and Close" button and paste the information below.
 -->
 IntelliJ Details: ____
